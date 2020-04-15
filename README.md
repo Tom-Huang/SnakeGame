@@ -10,4 +10,4 @@ cd build
 
 ## Effect
 
-![demo](https://github.com/Tom-Huang/SnakeGame/showcase.png "demo")
+![demo](showcase.png "demo")
